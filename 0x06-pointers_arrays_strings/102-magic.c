@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/*
- * Main - Entry point of the program
- *
- * Description: modify the value of an array element using a pointer
- * Return: 0 (Success)
- */
 int main(void)
 {
 	int n;
